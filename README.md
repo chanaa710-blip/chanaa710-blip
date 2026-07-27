@@ -39,7 +39,7 @@ Building scalable, reliable, and user-focused software through clean architectur
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
@@ -47,19 +47,18 @@ Building scalable, reliable, and user-focused software through clean architectur
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,vscode,visualstudio" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ### ⚡ Technologies
 
-* REST APIs
-* JWT Authentication
-* Entity Framework Core
-* Google Maps API
-* Jira
-* Power BI
-* Design Patterns
-* OOP
-* Clean Architecture
+- REST APIs
+- JWT Authentication
+- Entity Framework Core
+- Google Maps API
+- OOP
+- Design Patterns
+- Clean Architecture
 
 ---
 
