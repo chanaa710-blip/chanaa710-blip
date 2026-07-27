@@ -106,8 +106,8 @@ Administrators can review applications, filter and sort requests, approve or rej
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=chanaa710-blip&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanaa710-blip&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=chanaa710-blip&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chanaa710-blip&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
