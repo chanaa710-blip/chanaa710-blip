@@ -64,6 +64,22 @@ Building scalable, reliable, and user-focused software through clean architectur
 
 ## 🚀 Featured Projects
 
+### 📚 Community Library Platform
+
+A collaborative, microservices-based community library platform developed as part of a multi-team software project, simulating a real-world development environment.
+
+The platform enables users to manage their profiles and book collections, lend and borrow books within their neighborhood, receive notifications, and get personalized AI-powered book recommendations.
+
+The project consists of independent microservices for user & authentication, books & loans, notifications, and AI recommendations, communicating through REST/HTTP APIs.
+
+I contributed to the **User & Authentication Microservice**, implementing JWT-based authentication, Google OAuth2 login, user profiles, and neighborhood management.
+
+The project was developed collaboratively using **Git, Bitbucket, and Jira**, including feature branches, code merges, task management, and cross-service integration.
+
+**Technologies:** Java, Spring Boot, Spring Security, JWT, Google OAuth2, React, PostgreSQL, Docker, Docker Compose, REST APIs, Jira, Bitbucket, Git
+
+---
+
 ### 🌉 Bridge — Community Assistance Platform
 
 A full-stack community platform designed to connect people who need assistance with nearby volunteers.
